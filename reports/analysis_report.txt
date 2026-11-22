@@ -1,0 +1,50 @@
+
+========================================
+      STUDENT PERFORMANCE ANALYSIS
+========================================
+
+1. DATASET OVERVIEW
+-------------------
+Total Students: 10
+
+Average Study Hours: 4.90
+Average Attendance: 83.30%
+
+2. SUBJECT PERFORMANCE
+----------------------
+Math Average: 81.80
+English Average: 83.90
+Science Average: 82.80
+
+3. TOP PERFORMER
+----------------
+Name: Ayesha
+Total Marks: 283
+Average Marks: 94.33
+
+4. CORRELATION ANALYSIS
+-----------------------
+Study Hours vs Average Marks: 0.93
+Attendance vs Average Marks: 0.97
+
+Strongest Associated Factor: Attendance
+
+5. KEY FINDINGS
+---------------
+- English has the highest average subject marks.
+- Ayesha achieved the highest total marks.
+- Attendance has a stronger positive correlation
+  with Average Marks than Study Hours in this sample.
+
+6. CONCLUSION
+-------------
+The sample dataset shows positive associations between
+study hours, attendance and student performance.
+
+Correlation does not prove causation.
+The dataset contains only 10 sample students,
+so the findings should not be generalized.
+
+========================================
+             END OF REPORT
+========================================
